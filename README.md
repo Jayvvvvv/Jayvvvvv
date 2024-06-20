@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayvvvvv
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning B.tech is Information Technology and I have done six months basic computer course.
+- 🌱 I have done my B.Tech with Information Technology and I have sufficient knowledge of programming languages such as Python and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
